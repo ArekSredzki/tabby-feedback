@@ -8,7 +8,7 @@ Bug reports and feature requests for **Tabby** — the intelligent Chrome tab ma
 
 - **Bug report** — [Open a bug report](https://github.com/ArekSredzki/tabby-feedback/issues/new?template=bug_report.yml)
 - **Feature request** — [Request a feature](https://github.com/ArekSredzki/tabby-feedback/issues/new?template=feature_request.yml)
-- **General discussion** — [Join our Discord](https://discord.gg/TODO)
+- **General discussion** — [Join our Discord](https://discord.gg/vvMpvZ2cNG)
 
 ## About Tabby
 
